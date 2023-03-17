@@ -1,0 +1,14 @@
+*{
+ background-color: #D5E1EF;
+}
+
+table td
+{
+	background-color: white;
+}
+table {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	background-color: white;
+}
