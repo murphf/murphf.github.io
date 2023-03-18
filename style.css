@@ -17,7 +17,8 @@ table td
 	background-color: white;
 	border-radius: 1.5em;
 	/* offset-x | offset-y | blur-radius | spread-radius | color */
-	box-shadow:  5px 10px 25px 8px rgba(63, 62, 62, 0.2);
+	box-shadow:  5px 13px 25px 8px rgba(63, 62, 62, 0.2);
+	/*box-shadow: 10px 15px 28px 4px rgba(195, 195, 195, 0.55);*/
 }
 
 
