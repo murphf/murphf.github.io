@@ -1,6 +1,9 @@
 # my QR code component solution
 
-### Challenge by [Frontend Mentor](https://www.frontendmentor.io/profile/murphf) <img src= "./images/favicon-32x32.png" width=15>
+### Challenge by Frontend Mentor
+<a href="https://www.frontendmentor.io/profile/murphf" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-Murphf-eee?style=for-the-badge&logo=frontendmentor" alt="murphf's Profile">
+  </a>  
 
 ## Design preview 
 ### DESKTOP
@@ -15,7 +18,7 @@
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
 
-## **Solution Approach:**
+## **[Solution]() Approach:**
 I create an html table element ``<table>`` where each of the 3 component:  
 - the qr code image
 - the title 
