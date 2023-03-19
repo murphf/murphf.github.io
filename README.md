@@ -7,7 +7,7 @@
 
 ## Design preview 
 ### DESKTOP
-<img src= "./design/desktop-design.jpg">
+<img src= "./design/desktop-design.jpg" width=500>
 
 ### MOBILE
 <img src= "./design/mobile-design.jpg" width=200>
