@@ -19,7 +19,7 @@
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
 
 ## **[Solution]() Approach:**
-I create an html table element ``<table>`` where each of the 3 component:  
+I created an html table element ``<table>`` where each of the 3 component:  
 - the qr code image
 - the title 
 - the text
