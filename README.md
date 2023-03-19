@@ -26,6 +26,6 @@ I created an html table element ``<table>`` where each of the 3 component:
 
 is a table cell.
 
-[Live webpage](murphf.github.io)
+[Live webpage](https://murphf.github.io/)
 
 [More about the ```<table>``` tag.](https://www.htmlquick.com/reference/tags/table.html)
