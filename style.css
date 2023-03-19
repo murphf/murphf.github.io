@@ -8,6 +8,11 @@ table td
 	background-color: white;
 	border-radius: 1.5em;
 }
+table tr
+{
+	background-color: white;
+	border-radius: 1.5em;
+}
 
 /* Qr code and text container */
 .rectangle {
