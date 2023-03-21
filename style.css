@@ -5,8 +5,8 @@
 
 /* Qr code and text container */
 .rectangle {
-	width: 30%;
-	height: 35%;
+	width: 400px;
+	height: 600px;
 	margin: auto;
 	position:absolute;
 	top:0; left: 0;bottom: 0;right: 0;
@@ -21,8 +21,8 @@
 {
 	/* top right bottom left*/
 	margin-top: 20px;
-	width: 90%;
-	height: 60%;
+	width: 350px;
+	height: 350px;
 	border-radius: 1em;
 }
 
