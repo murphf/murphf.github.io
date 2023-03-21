@@ -18,14 +18,4 @@
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
 
-## **[Solution](https://murphf.github.io/) Approach:**
-I created an html table element ``<table>`` where each of the 3 component:  
-- the qr code image
-- the title 
-- the text
-
-is a table cell.
-
 [Live webpage](https://murphf.github.io/)
-
-[More about the ```<table>``` tag.](https://www.htmlquick.com/reference/tags/table.html)
